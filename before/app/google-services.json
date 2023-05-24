@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582606876294",
+    "project_id": "where-is-my-judang",
+    "storage_bucket": "where-is-my-judang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582606876294:android:1cbdf907a9360bf0f16b07",
+        "android_client_info": {
+          "package_name": "com.zahi.whereisjudang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582606876294-46vpn9u3sli51htko4ul0nqlao85k4mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWFIk-SNL5texSwEeQKgMD1YAuVFpYN4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582606876294-46vpn9u3sli51htko4ul0nqlao85k4mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
